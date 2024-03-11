@@ -1,0 +1,14 @@
+C:\Users\Aleison\source\repos\ActividadC#\ActividadC#\obj\Debug\net8.0\ActividadC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleison\source\repos\ActividadC#\ActividadC#\obj\Debug\net8.0\ActividadC#.AssemblyInfoInputs.cache
+C:\Users\Aleison\source\repos\ActividadC#\ActividadC#\obj\Debug\net8.0\ActividadC#.AssemblyInfo.cs
+C:\Users\Aleison\source\repos\ActividadC#\ActividadC#\obj\Debug\net8.0\ActividadC#.csproj.CoreCompileInputs.cache
+C:\Users\Aleison\source\repos\ActividadC#\ActividadC#\bin\Debug\net8.0\ActividadC#.exe
+C:\Users\Aleison\source\repos\ActividadC#\ActividadC#\bin\Debug\net8.0\ActividadC#.deps.json
+C:\Users\Aleison\source\repos\ActividadC#\ActividadC#\bin\Debug\net8.0\ActividadC#.runtimeconfig.json
+C:\Users\Aleison\source\repos\ActividadC#\ActividadC#\bin\Debug\net8.0\ActividadC#.dll
+C:\Users\Aleison\source\repos\ActividadC#\ActividadC#\bin\Debug\net8.0\ActividadC#.pdb
+C:\Users\Aleison\source\repos\ActividadC#\ActividadC#\obj\Debug\net8.0\ActividadC#.dll
+C:\Users\Aleison\source\repos\ActividadC#\ActividadC#\obj\Debug\net8.0\refint\ActividadC#.dll
+C:\Users\Aleison\source\repos\ActividadC#\ActividadC#\obj\Debug\net8.0\ActividadC#.pdb
+C:\Users\Aleison\source\repos\ActividadC#\ActividadC#\obj\Debug\net8.0\ActividadC#.genruntimeconfig.cache
+C:\Users\Aleison\source\repos\ActividadC#\ActividadC#\obj\Debug\net8.0\ref\ActividadC#.dll
